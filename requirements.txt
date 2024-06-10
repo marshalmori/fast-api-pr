@@ -23,8 +23,10 @@ passlib==1.7.4
 psycopg2-binary==2.9.9
 pyasn1==0.6.0
 pydantic==2.7.3
+pydantic-settings==2.3.1
 pydantic_core==2.18.4
 Pygments==2.18.0
+python-decouple==3.8
 python-dotenv==1.0.1
 python-jose==3.3.0
 python-multipart==0.0.9
